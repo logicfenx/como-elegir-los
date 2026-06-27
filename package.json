@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/como-elegir-los",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a como-elegir-los",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/como-elegir-los.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/mejores-fondos-indexados-para-invertir/"
+    },
+    "homepage": "https://bitcu.co/mejores-fondos-indexados-para-invertir/"
+}
